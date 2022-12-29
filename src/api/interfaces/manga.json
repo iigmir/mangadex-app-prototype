@@ -1,0 +1,44 @@
+{
+    "id": "",
+    "type": "",
+    "attributes": {
+        "title": {
+            "en": ""
+        },
+        "altTitles": [
+            ""
+        ],
+        "description": {
+            "en": ""
+        },
+        "isLocked": false,
+        "links": {
+            "x": ""
+        },
+        "originalLanguage": "",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "",
+        "status": "",
+        "year": 0,
+        "contentRating": "",
+        "tags": [
+            ""
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "",
+        "updatedAt": "",
+        "version": 0,
+        "availableTranslatedLanguages": [
+            ""
+        ],
+        "latestUploadedChapter": ""
+    },
+    "relationships": [
+        {
+            "id": "",
+            "type": ""
+        }
+    ]
+}

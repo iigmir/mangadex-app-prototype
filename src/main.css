@@ -1,0 +1,14 @@
+:root {
+    --gap-length: 0.5rem;
+}
+
+.my-gap {
+    margin-top: var(--gap-length);
+    margin-bottom: var(--gap-length);
+}
+.my-top-gap {
+    margin-top: var(--gap-length);
+}
+.my-bottom-gap {
+    margin-bottom: var(--gap-length);
+}
